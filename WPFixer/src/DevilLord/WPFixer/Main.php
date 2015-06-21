@@ -1,5 +1,5 @@
 <?php
-namespace PixelGuy75\JoinCommands;
+namespace DevilLord\WPFixer;
 use pocketmine\command\ConsoleCommandSender;
 use pocketmine\command\CommandSender;
 use pocketmine\event\Listener;
