@@ -1,0 +1,3 @@
+enableCommand: true
+Command: 
+- say Hay !
