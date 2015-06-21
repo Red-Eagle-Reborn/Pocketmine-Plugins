@@ -1,0 +1,6 @@
+name: WPFixer
+main: DevilLord\WPFixer\Main
+version: 1.4
+api: [1.0.0]
+author: DevilLord
+load: POSTWORLD
